@@ -7,8 +7,8 @@ const HomeScreen = () => {
 
 const styles = StyleSheet.create({
   text: {
-    fontSize: 30
-  }
+    fontSize: 80
+   }
 });
 
 export default HomeScreen;
